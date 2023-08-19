@@ -1,6 +1,6 @@
 # my-project
 external practical
 
- Aman Umrethe
+ ###Aman Umrethe
  sem 4
  AIML
